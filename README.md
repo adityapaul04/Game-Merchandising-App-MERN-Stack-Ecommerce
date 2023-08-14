@@ -1,5 +1,4 @@
-# Game-Merchandising-App-MERN-Stack-Ecommerce
-<h1 align="center">Game Merchandising App</h1>
+<h1 align="center"> # Game-Merchandising-App-MERN-Stack-Ecommerce <h1>
 <h5 align="center">An end to end massive Full-Stack (MERN) e-commerce web application.
 </h5>
 <br/>
