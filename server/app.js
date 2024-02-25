@@ -8,7 +8,7 @@ const dotenv = require('dotenv');
 const errorMiddleware = require('./middlewares/errors')
 
 //Setting up the config file
-dotenv.config({ path: 'backend/config/config.env' })
+dotenv.config({ path: 'server/config/config.env' })
 
 app.use(bodyparser.urlencoded({extended: true}));
 app.use(cookieParser());
